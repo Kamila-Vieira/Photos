@@ -50,4 +50,7 @@ dependencies {
 
     // Gson
     implementation("com.google.code.gson:gson:2.12.1")
+
+    //Volley
+    implementation("com.android.volley:volley:1.2.1")
 }
